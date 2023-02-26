@@ -216,6 +216,7 @@ $color2 : black;
   }
   .info{
     width: 100%;
+    overflow: hidden;
     .info-child{
       max-width: 800px;
       margin: auto;

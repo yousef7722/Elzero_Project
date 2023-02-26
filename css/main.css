@@ -207,6 +207,7 @@ body {
 }
 .container .info {
   width: 100%;
+  overflow: hidden;
 }
 .container .info .info-child {
   max-width: 800px;
